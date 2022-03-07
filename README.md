@@ -1,4 +1,4 @@
-# bograh
+# BERNARD OGRAH
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Ograh](https://www.linkedin.com/in/bernard-ograh-526a13202/).
 
 - 📫 How to reach me: `ograhbernard@gmail.com`
