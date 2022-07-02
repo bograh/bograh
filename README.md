@@ -1,4 +1,4 @@
-<!-- # BERNARD OGRAH -->
+# BERNARD OGRAH
 # <h1 align="center">Hi👋, I'm Ograh</h1>
                     
 <h3 align="center">Aspiring Software Engineer | Machine Learning Engineer from Ghana </h3>
