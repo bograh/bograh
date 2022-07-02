@@ -1,7 +1,11 @@
 # BERNARD OGRAH
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="12px"> I'm [Ograh](https://www.linkedin.com/in/bernard-ograh-526a13202/).
+<h1 align="center">Hi 👋, I'm Ograh</h1>
+                    
+<h3 align="center">Aspiring Software Engineer | Machine Learning Engineer from Ghana </h3>
 
-- 📫 How to reach me: `ograhbernard@gmail.com`
+I'm a computer science student and aspiring software engineer developer 👨‍💻 from Ghana who is passionate about Machine Learning, Python Development and opensource.
+
+- 📫 How to reach me: `<a href="mailto:ograhbernard@gmail.com">ograhbernard@gmail.com</a>`
 
 <a href="https://twitter.com/ograh_">
   <img align="left" alt="Ograh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
