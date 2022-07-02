@@ -1,5 +1,5 @@
 # BERNARD OGRAH
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm [Ograh](https://www.linkedin.com/in/bernard-ograh-526a13202/).
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="12px"> I'm [Ograh](https://www.linkedin.com/in/bernard-ograh-526a13202/).
 
 - 📫 How to reach me: `ograhbernard@gmail.com`
 
@@ -11,6 +11,11 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bograh.bograh)
+
+<div>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=bograh&show_icons=true&theme=gruvbox">
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bograh&layout=compact&lang&theme=gruvbox">
+</div>
 
 **languages and tools:**  
 
