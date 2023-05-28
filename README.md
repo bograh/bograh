@@ -32,5 +32,5 @@ I'm a computer science student and aspiring software engineer developer 👨‍�
 [<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/96943574ba0c0340ba6ea1e6f768e9abe43e34e1/topics/sql-server/sql-server.png"></code>](https://www.microsoft.com/sql-server)
 [<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>](https://www.linux.org/)
 [<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>](https://github.com/)
-[<code><img height="40" width="40" src="https://code.visualstudio.com/assets/favicon.ico"></code>](https://code.visualstudio.com/)
+[<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"></code>](https://code.visualstudio.com/)
 [<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/86c1bd6b4584404882313005cbd1c213cacb16d8/topics/visual-studio/visual-studio.png"></code>](https://visualstudio.microsoft.com/)
