@@ -1,7 +1,7 @@
 # BERNARD OGRAH
 # <h1 align="center">Hi👋, I'm Ograh</h1>
                     
-<h3 align="center">Aspiring Software Engineer | Machine Learning Engineer from Ghana </h3>
+<h3 align="center">Student and Aspiring Software Engineer from Ghana </h3>
 
 I'm a computer science student and aspiring software engineer developer 👨‍💻 from Ghana who is passionate about Machine Learning, Python Development and opensource.
 
