@@ -3,7 +3,7 @@
                     
 <h3 align="center">Student and Aspiring Software Engineer from Ghana </h3>
 
-I'm a computer science student and aspiring software engineer developer 👨‍💻 from Ghana who is passionate about Machine Learning, Python Development, and opensource.
+I'm a computer science student and aspiring software engineer developer 👨‍💻 from Ghana who is passionate about Machine Learning, Python Development, and open source.
 
 - 📫 How to reach me: `ograhbernard@gmail.com`
 
