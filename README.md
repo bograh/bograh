@@ -18,7 +18,7 @@ I'm a computer science student and aspiring software engineer developer 👨‍�
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=bograh&show_icons=true&theme=gruvbox" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bograh&layout=compact&lang&theme=darcula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bograh&layout=compact&lang&theme=gruvbox">
 </div>
 
 **Languages and tools:**
