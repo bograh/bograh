@@ -14,8 +14,6 @@ I'm a computer science student and aspiring software engineer developer 👨‍�
   <img align="left" alt="Ograh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=bograh&countColor=%232ccce4)
-
 <div>
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=bograh&show_icons=true&theme=gruvbox" >
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bograh&layout=compact&lang&theme=gruvbox">
