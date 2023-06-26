@@ -18,8 +18,8 @@ I'm a computer science student and aspiring software engineer developer 👨‍�
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=bograh" >
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=bograh&show_icons=true&theme=darcula">
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bograh&layout=compact&lang&theme=darcula">
+<img src="https://github-readme-stats.vercel.app/api?username=bograh&show_icons=true&theme=darcula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bograh&layout=compact&lang&theme=darcula">
 </div>
 
 **Languages and tools:**
