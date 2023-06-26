@@ -17,7 +17,7 @@ I'm a computer science student and aspiring software engineer developer 👨‍�
 ![](https://visitor-badge.glitch.me/badge?page_id=bograh.bograh)
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=bograh&show_icons=true&theme=darcula" >
+<img src="https://github-readme-stats.vercel.app/api?username=bograh&show_icons=true" >
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bograh&layout=compact&lang&theme=darcula">
 </div>
 
