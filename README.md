@@ -7,12 +7,14 @@ I'm a computer science student and aspiring software engineer developer 👨‍�
 
 - 📫 How to reach me: `ograhbernard@gmail.com`
 
+<!---
 <a href="https://twitter.com/ograh_">
   <img align="left" alt="Ograh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/bernard-ograh-526a13202/.">
   <img align="left" alt="Ograh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+--->
 
 ![]()
 
