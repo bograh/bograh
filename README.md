@@ -8,9 +8,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=bograh&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=bograh&theme=blueberry_duo"/>
-|---|---|
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bograh&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bograh&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bograh&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bograh&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bograh&theme=github_dark&utcOffset=0)
 
 ## Programming Languages & Tools
 **Languages and Frameworks:** 
