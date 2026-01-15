@@ -11,9 +11,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bograh&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bograh&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bograh&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bograh&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bograh&theme=github_dark&utcOffset=0)
 
 ## Programming Languages & Tools
 **Languages and Frameworks:** 
