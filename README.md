@@ -3,9 +3,7 @@
 
 🌍 Based in Ghana · Open to remote roles globally
 
-📫<a href="mailto:ograhbernard@gmail.com">`ograhbernard@gmail.com`</a> · <a href="https://ograh.xyz">`ograh.xyz`</a>
-
-- 📫 How to reach me: <a href="mailto:ograhbernard@gmail.com">`ograhbernard@gmail.com`</a>
+- 📫 How to reach me: <a href="mailto:ograhbernard@gmail.com">`ograhbernard@gmail.com`</a> · <a href="https://ograh.xyz">`ograh.xyz`</a>
 ![]()
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
