@@ -1,7 +1,7 @@
 # 👷🏾‍♂️ BERNARD OGRAH
 # <h1 align="center">Hi👋, I'm Ograh</h1>
                     
-<h3 align="center">Software Engineer from Ghana </h3>
+### Backend Engineer · Java · Go · Microservices · Distributed Systems
 
 - 📫 How to reach me: <a href="mailto:ograhbernard@gmail.com">`ograhbernard@gmail.com`</a>
 ![]()
