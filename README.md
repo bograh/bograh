@@ -1,7 +1,7 @@
 # 👷🏾‍♂️ BERNARD OGRAH                    
 ### Backend Engineer · Java · Go · Microservices · Distributed Systems
 
-🌍 Based in Ghana · Open to remote roles globally
+- 🌍 Based in Ghana · Open to remote roles globally
 
 - 📫 How to reach me: <a href="mailto:ograhbernard@gmail.com">`ograhbernard@gmail.com`</a> · <a href="https://ograh.xyz">`ograh.xyz`</a>
 ![]()
