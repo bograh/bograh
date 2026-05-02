@@ -1,6 +1,4 @@
-# 👷🏾‍♂️ BERNARD OGRAH
-# <h1 align="center">Hi👋, I'm Ograh</h1>
-                    
+# 👷🏾‍♂️ BERNARD OGRAH                    
 ### Backend Engineer · Java · Go · Microservices · Distributed Systems
 
 - 📫 How to reach me: <a href="mailto:ograhbernard@gmail.com">`ograhbernard@gmail.com`</a>
